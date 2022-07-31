@@ -30,6 +30,7 @@ Every category has two types of images:
 
 
 Imaging examples:
+
 ![Untitled](https://user-images.githubusercontent.com/44744877/182027087-a3c5c618-7bfa-4d6d-9368-5419afe34699.png)
 
 
