@@ -8,6 +8,8 @@ We have created the following models:
 3) K-Nearest neighbor (KNN)
 4) Recurrent Neural Networks (RNN)
 5) AdaBoost
+6) SVM
+7) Random forest
 
 The main idea was to understand more how the models work, not to have high accuracy. 
 The models have been developed using Jupyter Notebook.
@@ -73,6 +75,8 @@ The biggest challenge of this project is the imbalance of the dataset.
 * It was challenging to find the best learning rate that can give the best results, in some values we got a high accuracy rate on the training data but it wasn’t close in the test(overfitting) so we tried to find the best value.
 * To find the best normalized size to the image (150, 150) in a way that we don’t lose any features that are important to classification.
 * To get the number of hidden layers in back Propagation that can learn the data without overfitting.
+* Random forest model builds trees and decides according to legal feautures. Because we are using images, we do not have clear features, so we had to convert the image to a size of 150x150 and since it is a two-dimensional array, we turned it into a one-dimensional array of size 22500, and this helped us insert it instead of several features.
+* SVM model accepts a vector and we have an image so we turned the image into a vector of pixels and then ran it through this vector. It was difficult for us to decide whether to take the pixels as they are or divide by 255 (we will get a pixel between 0 and 1) or even use the histogram of the pixels.
   
 
 
