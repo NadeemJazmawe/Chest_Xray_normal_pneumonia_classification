@@ -9,7 +9,7 @@ We have created the following models:
 4) Recurrent Neural Networks (RNN)
 5) AdaBoost
 6) SVM
-7) Random forest
+7) Random Forest
 
 The main idea was to understand more how the models work, not to have high accuracy. 
 The models have been developed using Jupyter Notebook.
@@ -60,6 +60,19 @@ The normal chest X-ray (left panel) depicts clear lungs without any areas of abn
 
 #### AdaBoost:
 ![Untitled](https://user-images.githubusercontent.com/44744877/182027139-095aae54-a357-4ae3-b060-a429325eeee0.png)
+
+
+#### SVM
+![asdasd](https://user-images.githubusercontent.com/44744877/185441082-39b9aa1c-5184-471f-a103-d0eb0f08c350.png)
+
+
+#### Random Forest
+![asdasdfasf](https://user-images.githubusercontent.com/44744877/185441076-28daddd6-69cb-449c-989f-8087319a3f8b.png)
+
+
+
+
+
 
 
 ## Main challenges we faced:
